@@ -1,0 +1,28 @@
+name: Cosma
+favicon: null
+layout_spectrum: 0.6819236720912158
+typography_spectrum: 0.8207113032694906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.00985755305737257
+  lightness: 0.3490510468836874
+  saturation: 0.09838011581450701
+  rhythmicContrast: 0.6747070967685431
+purpose: []
