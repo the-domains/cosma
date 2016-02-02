@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cosma]]></title>
         <description><![CDATA[Cosma]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cosma/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 18:56:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 18:58:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cosma/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2015/10/01/comet1.jpg">]]></description>
+            <link>http://www.creativebloq.com/web-design/9-tech-trends-will-change-web-design-2016-121518355</link>
+            <guid isPermaLink="false">b6af0fc7-2ef1-40ae-ace4-609e736edb1b</guid>
+            <pubDate>Tue, 02 Feb 2016 18:57:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.hotelbrummell.com/wp-content/uploads/2015/05/the-brummell-team.jpg">]]></description>
-            <link>undefined0166df66-db69-4010-a9c1-108a1c08d068/index.html</link>
+            <link>https://thegrid.ai/cosma/0166df66-db69-4010-a9c1-108a1c08d068/index.html</link>
             <guid isPermaLink="false">0166df66-db69-4010-a9c1-108a1c08d068</guid>
             <pubDate>Tue, 02 Feb 2016 18:56:34 GMT</pubDate>
         </item>
